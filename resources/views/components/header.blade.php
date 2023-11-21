@@ -9,12 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
     <!-- site metas -->
-    <title>Highness Events</title>
+    <title>Soul of Highness</title>
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="author" content="" />
     <!-- fevicon -->
-    <link rel="icon" href="{{ asset('/assets/images/highness_logo.png') }}" type="image/gif" />
+    {{-- <link rel="icon" href="{{ asset('/assets/images/hK lOGO.png') }}"/> --}}
+    <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/highness_logo.png') }}" />
     <!-- bootstrap css -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}" />
     <!-- style css -->

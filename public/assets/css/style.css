@@ -1943,10 +1943,12 @@ link[rel="icon"] {
 }
 
 #clients_container {
-    background-color: #042c25;
-    padding-top: 20px;
-    padding-bottom: 60px;
+    /* background-color: #042c25; */
+    /* padding-top: 20px; */
+    /* padding-bottom: 60px; */
     margin-top: 8%;
+    background: linear-gradient(rgb(0 0 0 / 80%), rgb(0 0 0 / 80%)), url(../images/events_bg_1.jpg) center center no-repeat;
+    background-size: cover;
 }
 
 #clients_slider_section {
@@ -1969,8 +1971,7 @@ link[rel="icon"] {
 
 #client_element {
     /* background-color: #03131f; */
-    background: linear-gradient(rgb(84 84 84 / 85%), rgb(84 84 84 / 85%)), url(../images/events_bg_1.jpg) center center no-repeat;
-    background-size: cover;
+    
 }
 
 /* ------------------------------- */
@@ -2220,8 +2221,11 @@ i {
 
 .contact_container {
     /* background: #ececec; */
-    background: #042c25;
+    /* background: #042c25; */
     margin-bottom: -70px;
+    padding-bottom: 85px;
+    background: linear-gradient(rgb(0 0 0 / 80%), rgb(0 0 0 / 80%)), url(../images/events_bg_3.jpeg) center center no-repeat;
+    background-size: cover;
 }
 
 #about_box_container h2 {
@@ -2307,6 +2311,7 @@ i {
 
 #profile_container .about-box img {
     box-shadow: 0px 1px 4px 6px lightgray;
+    border-radius: 25px;
 }
 
 .card #blog_button {
@@ -2351,7 +2356,7 @@ i {
 }
 
 .register_container {
-    background: linear-gradient(rgba(36, 35, 35, 0.85), rgba(36, 35, 35, 0.85)), url(../images/events_bg_1.jpg) center center no-repeat;
+    background: linear-gradient(rgb(0 0 0 / 80%), rgb(0 0 0 / 80%)), url(../images/events_bg_1.jpg) center center no-repeat;
     /* background: url(../images/events_bg_1.jpg); */
     background-size: 100% 100%;
     background-repeat: no-repeat;
