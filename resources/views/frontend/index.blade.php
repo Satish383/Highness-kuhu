@@ -16,8 +16,8 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="text-bg">
-                                            <span>The Best</span>
-                                            <h1>EVENTS ORGNIZER</h1>
+                                            <span>Soul of Highness Entertainment</span>
+                                            <h1>"The Platform that has it all"</h1>
                                             <p>
                                                 Soul of Highness Entertainment is a platform-giving foundation that
                                                 provides you with the best platform for all kinds of talents we start
@@ -40,8 +40,8 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="text-bg">
-                                            <span>The Best</span>
-                                            <h1>EVENTS ORGNIZER</h1>
+                                            <span>Soul of Highness Entertainment</span>
+                                            <h1>"The Platform that has it all"</h1>
                                             <p>
                                                 Soul of Highness Entertainment is a platform-giving foundation that
                                                 provides you with the best platform for all kinds of talents we start
@@ -66,8 +66,8 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="text-bg">
-                                            <span>The Best</span>
-                                            <h1>EVENTS ORGNIZER</h1>
+                                            <span>Soul of Highness Entertainment</span>
+                                            <h1>"The Platform that has it all"</h1>
                                             <p>
                                                 Soul of Highness Entertainment is a platform-giving foundation that
                                                 provides you with the best platform for all kinds of talents we start
@@ -163,7 +163,7 @@
 </header>
 
 <!-- about  -->
-<div class="about">
+<div id="slider_container" class="about">
     <div id="carousel_head" class="container">
         <h2>OUR EXPERTISE</h2>
         {{-- <div class="row display_boxflex">

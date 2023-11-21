@@ -65,7 +65,7 @@
 
                                             <li><a href="/about">About Us</a></li>
                                             <li><a href="/portfolio">Portfolio</a></li>
-                                            <li class="active"><a href="/services">Services</a></li>
+                                            <li class="active"><a href="/services">Expertise</a></li>
                                             <li><a href="/gallery">Gallery</a></li>
                                             <li><a href="/contact">Contact</a></li>
                                             <li><a href="/register">Register</a></li>
@@ -89,7 +89,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="heding">
-                        <h2>Services</h2>
+                        <h2>Expertise</h2>
                     </div>
                 </div>
             </div>
