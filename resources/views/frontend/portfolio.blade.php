@@ -36,7 +36,7 @@
 <body class="main-layout contineer_page">
     <!-- loader  -->
     <div class="loader_bg">
-        <div class="loader"><img src="{{ asset('assets/images/loading.gif') }}" alt="#" /></div>
+        <div class="loader"><img src="{{ asset('assets/images/loding_gif.gif') }}" alt="#" /></div>
     </div>
     <!-- end loader -->
     <!-- header -->
@@ -122,7 +122,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 margi_bott1">
+                        {{-- <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 margi_bott1">
                             <div class="card">
                                 <img src="{{ asset('assets/images/team_building.jpg') }}" alt="Avatar"
                                     style="width:100%">
@@ -131,8 +131,8 @@
                                             cohesive unit.</b></h3>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                        </div> --}}
+                        {{-- <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                             <div class="card">
                                 <img src="{{ asset('assets/images/conferences.jpg') }}" alt="Avatar"
                                     style="width:100%">
@@ -141,8 +141,8 @@
                                             discuss a particular topic.</b></h3>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" style="margin-top: 2%;">
+                        </div> --}}
+                        {{-- <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" style="margin-top: 2%;">
                             <div class="card">
                                 <img src="{{ asset('assets/images/birthday.jpg') }}" alt="Avatar"
                                     style="width:100%">
@@ -150,8 +150,8 @@
                                     <h3><b>Birthdays are a very special day for everyone who celebrates it. </b></h3>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" style="margin-top: 2%;">
+                        </div> --}}
+                        {{-- <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" style="margin-top: 2%;">
                             <div class="card">
                                 <img src="{{ asset('assets/images/exhibition.jpg') }}" alt="Avatar"
                                     style="width:100%;  height:346px;">
@@ -160,7 +160,7 @@
                                             items.</b></h3>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
 

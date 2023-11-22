@@ -36,7 +36,7 @@
 <body class="main-layout contineer_page">
     <!-- loader  -->
     <div class="loader_bg">
-        <div class="loader"><img src="{{ asset('assets/images/loading.gif') }}" alt="#" /></div>
+        <div class="loader"><img src="{{ asset('assets/images/loding_gif.gif') }}" alt="#" /></div>
     </div>
     <!-- end loader -->
     <!-- header -->

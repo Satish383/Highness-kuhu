@@ -36,7 +36,7 @@
 <body class="main-layout contineer_page">
     <!-- loader  -->
     <div class="loader_bg">
-        <div class="loader"><img src="{{ asset('assets/images/loading.gif') }}" alt="#" /></div>
+        <div class="loader"><img src="{{ asset('assets/images/loding_gif.gif') }}" alt="#" /></div>
     </div>
     <!-- end loader -->
     <!-- header -->
@@ -119,13 +119,13 @@
                             </figure>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                    {{-- <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                         <div class="Gallery_img">
                             <figure><img src="{{ asset('assets/images/events_bg_1.jpg') }}" alt="#" />
                             </figure>
                         </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                    </div> --}}
+                    {{-- <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                         <div class="Gallery_img">
                             <figure><img src="{{ asset('assets/images/events_bg_2.webp') }}" alt="#" />
                             </figure>
@@ -136,11 +136,11 @@
                             <figure><img src="{{ asset('assets/images/events_bg_3.jpeg') }}" alt="#" />
                             </figure>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
                 <br>
 
-                <div class="row">
+                {{-- <div class="row">
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 margi_bott">
                         <div class="Gallery_img">
                             <figure><img src="{{ asset('assets/images/events_bg_4.jpg') }}" alt="#" /></figure>
@@ -176,10 +176,10 @@
                             </figure>
                         </div>
                     </div>
-                </div>
+                </div> --}}
                 <br>
 
-                <div class="row">
+                {{-- <div class="row">
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 margi_bott">
                         <div class="Gallery_img">
                             <figure><img src="{{ asset('assets/images/wedding.jpeg') }}" alt="#" /></figure>
@@ -215,7 +215,7 @@
                             </figure>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
